@@ -1,0 +1,7 @@
+{
+    "cksp.compilerVersion": "v0.0.6",
+    "window.density.editorTabHeight": "compact",
+    "terminal.integrated.commandsToSkipShell": [
+        "editor.action.toggleTabFocusMode"
+    ]
+}
